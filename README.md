@@ -91,7 +91,7 @@ cd fecafmobile
 
 ### 2. Instale as dependências
 ```bash
-pm install
+Npm install
 ```
 
 ### 3. Inicie o projeto
